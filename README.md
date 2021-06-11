@@ -1,1 +1,2 @@
-TinDog Starting Files
+Sample site
+An application about dogs
