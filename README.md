@@ -21,7 +21,7 @@ Bullet list:
 Footnotes:  
 ES6 is a Javascript version that is in ECMA[^1] and me, Kojidi[^2] want to introduce it for you.  
 
-[Extended Syntax](##ext-syn)
+[Extended Syntax](#ext-syn)
 
 Image:  
 <br>
