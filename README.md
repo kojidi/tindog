@@ -21,7 +21,7 @@ Bullet list:
 Footnotes:  
 ES6 is a Javascript version that is in ECMA[^1] and me, Kojidi[^2] want to introduce it for you.  
 
-[Extended Syntax](#ext-syn)
+[Extended Syntax](#user-content-extended-syntax)
 
 Image:  
 <br>
@@ -42,7 +42,7 @@ This is [Google][googleId] Link too
 
 
 
-## Extended Syntax {#ext-syn}
+## Extended Syntax
 
 | First Name | Last Name  |
 | :-------:  | :---------: |
